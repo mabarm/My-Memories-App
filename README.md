@@ -7,10 +7,10 @@ User can add creator, description, photo of their memories. They can also like, 
 
 # Deployments: 
 ## Frontend
-[https://my-memories-app11.netlify.app  ](https://vercel.com/mamatas-projects/my-memories-app)
+https://vercel.com/mamatas-projects/my-memories-app
 
 ## Backend
-[https://my-memories-app1.herokuapp.com/posts  ](https://vercel.com/mamatas-projects/my-memories-app-api)
+https://vercel.com/mamatas-projects/my-memories-app-api
 
 # Tools
 * React
