@@ -11,4 +11,9 @@ export default makeStyles((theme) => ({
   actionDiv: {
     textAlign: "center",
   },
+  loaderContainer: {
+    display: 'grid',
+    placeItems: 'center',
+    height: '70vh',
+  },
 }));
