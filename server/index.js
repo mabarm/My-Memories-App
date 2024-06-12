@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 const PORT = process.env.PORT;
 
 mongoose
-  .connect(process.env.CONNECTION_URI, {
+  .connect(process.env.MONGODB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
